@@ -1,0 +1,2 @@
+# Early-Detection-of-Alzheimer-s-using-Voice-Biomarkers-And-Deep-Learning
+Alzheimer’s disease is a progressive disorder affecting memory &amp; cognition. Early detection is vital but current methods like MRI are costly &amp; clinical. Voice biomarkers offer a non-invasive &amp; low-cost alternative. Deep learning can extract acoustic and linguistic features from speech effectively to enable accurate, scalable Alzheimer’s detection.
