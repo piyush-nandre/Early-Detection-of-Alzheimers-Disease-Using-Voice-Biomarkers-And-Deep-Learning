@@ -9,6 +9,14 @@ This project uses speech biomarkers, MFCC audio features, and a Convolutional Ne
 
 > ⚠️ This project is intended for academic and research purposes only. It is **not** a clinical diagnostic tool.
 
+ ## Dataset Notice
+
+This project was developed using a controlled-access clinical dataset (DementiaBank / TalkBank) under applicable research-use terms.
+
+Due to licensing, privacy, and access restrictions, the training data and trained weights are not redistributed in this repository.
+
+Researchers should request dataset access directly from TalkBank/DementiaBank and train models independently.
+
 ---
 
 # 📌 Project Highlights
@@ -116,6 +124,11 @@ Probability score:
 - MFCC feature map
 - Confidence score
 - Prediction probability
+<img width="1920" height="951" alt="1" src="https://github.com/user-attachments/assets/07c4654a-2362-4ba1-8466-15b5cb8f2067" />
+<img width="1920" height="952" alt="2" src="https://github.com/user-attachments/assets/50d81bf1-8665-4f1f-92d2-11402042e255" />
+<img width="1920" height="952" alt="3" src="https://github.com/user-attachments/assets/90c89880-7eae-499e-91c6-25c039ab85ed" />
+<img width="1920" height="952" alt="4" src="https://github.com/user-attachments/assets/81add689-8a02-4b7d-956e-265f9b2aa548" />
+
 
 ---
 
@@ -124,9 +137,5 @@ Probability score:
 ```text
 project-folder/
 │── main.py
-│── alz_cnn.keras
 │── requirements.txt
 │── README.md
-
-Author
-Piyush Nandre.
